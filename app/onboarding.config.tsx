@@ -66,7 +66,7 @@ export const onboardingConfig: OnboardingConfig = {
     {
       id: 'diet',
       title: 'Do you follow a specific diet?',
-      type: 'single-choice',
+      type: 'multi-choice',
       required: true,
       options: [
         { value: 'classic', label: 'Classic', icon: '🍎' },
