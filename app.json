@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "onboarding-flow-template",
-    "slug": "onboarding-flow-template",
+    "name": "AppStarterCode",
+    "slug": "appstartercode",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "onboardingflowtemplate",
+    "scheme": "appstartercode",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

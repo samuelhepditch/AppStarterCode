@@ -1,4 +1,4 @@
-# 🚀 Universal Onboarding Flow Template
+# 🚀 AppStarterCode
 
 A flexible, customizable React Native onboarding flow template that works with Expo Router. Perfect for quickly implementing user onboarding in any app without touching the underlying code.
 
